@@ -15,7 +15,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-## Author 👷🏻‍♂️
+## Autor 👷🏻‍♂️
 
 - GitHub - [Joseph Matheus](https://github.com/josephmatheus)
 - LinkedIn - [Joseph Matheus](https://www.linkedin.com/in/josephmatheus/)
